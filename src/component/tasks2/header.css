@@ -1,0 +1,19 @@
+.cont{
+    margin: 100px;
+    text-align: center;
+}
+.vision {
+    color: #4F46E5;
+}
+.goal {
+    color: #4F46E5;
+    font-size: 50px;
+    font-weight: bold;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.text, .text-2 {
+    font-size: 15px;
+}
